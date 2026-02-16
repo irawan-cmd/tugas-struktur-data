@@ -1,5 +1,4 @@
-pendahuluan
-
+pendahuluan <br>
 Perkembangan ilmu komputer tidak dapat dipisahkan dari penggunaan struktur data yang efisien dan terorganisir. Struktur data berperan penting dalam menyimpan, mengelola, serta memproses data agar dapat digunakan secara optimal dalam berbagai aplikasi. Salah satu struktur data dasar yang paling sering digunakan adalah array. Array memungkinkan penyimpanan sekumpulan data dengan tipe yang sama dalam satu wadah yang terstruktur dan dapat diakses menggunakan indeks tertentu.
 
 Dalam konsep pemrograman, Abstract Data Type (ADT) merupakan suatu pendekatan untuk mendefinisikan struktur data berdasarkan operasi-operasi yang dapat dilakukan terhadapnya, tanpa harus langsung bergantung pada implementasi teknisnya. Dengan menggunakan ADT Array, programmer dapat memahami bagaimana data disimpan, diakses, dan dimanipulasi secara sistematis dan terkontrol.
