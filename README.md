@@ -1,1 +1,10 @@
-pendahuluan# tugas-struktur-data
+pendahuluan
+Perkembangan ilmu komputer tidak dapat dipisahkan dari penggunaan struktur data yang efisien dan terorganisir. Struktur data berperan penting dalam menyimpan, mengelola, serta memproses data agar dapat digunakan secara optimal dalam berbagai aplikasi. Salah satu struktur data dasar yang paling sering digunakan adalah array. Array memungkinkan penyimpanan sekumpulan data dengan tipe yang sama dalam satu wadah yang terstruktur dan dapat diakses menggunakan indeks tertentu.
+
+Dalam konsep pemrograman, Abstract Data Type (ADT) merupakan suatu pendekatan untuk mendefinisikan struktur data berdasarkan operasi-operasi yang dapat dilakukan terhadapnya, tanpa harus langsung bergantung pada implementasi teknisnya. Dengan menggunakan ADT Array, programmer dapat memahami bagaimana data disimpan, diakses, dan dimanipulasi secara sistematis dan terkontrol.
+
+Salah satu penerapan array yang menarik dalam dunia komputasi adalah simulasi Game of Life yang diperkenalkan oleh John Conway. Game of Life merupakan simulasi berbasis grid dua dimensi yang menggambarkan perkembangan sel hidup dan mati berdasarkan aturan tertentu. Meskipun disebut “game”, simulasi ini lebih bersifat matematis dan menunjukkan bagaimana pola kompleks dapat muncul dari aturan sederhana.
+
+Dalam simulasi Game of Life, array dua dimensi digunakan untuk merepresentasikan kondisi sel dalam suatu grid. Setiap elemen array menyatakan keadaan suatu sel, yaitu hidup atau mati. Melalui penerapan aturan-aturan tertentu, kondisi sel akan diperbarui dari satu generasi ke generasi berikutnya. Oleh karena itu, penggunaan ADT Array sangat sesuai untuk mengimplementasikan simulasi ini karena memudahkan pengelolaan data dalam bentuk matriks.
+
+Berdasarkan hal tersebut, penulisan ini bertujuan untuk menjelaskan konsep ADT Array serta mengimplementasikannya dalam simulasi Game of Life. Dengan memahami hubungan antara struktur data dan penerapannya dalam simulasi, diharapkan dapat meningkatkan pemahaman mengenai pentingnya struktur data dalam pemrograman.
